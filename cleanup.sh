@@ -7,4 +7,4 @@ development
 this code updating and inergrating
 i am updating
 master
-
+I did my graduation in computer science at govt science college bengaluru
